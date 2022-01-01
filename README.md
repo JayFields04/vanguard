@@ -1,0 +1,1 @@
+This is an app that generate a random class in Vanguard. This is just for entertainment that will provide some fun while playing the game. Enjoy!
